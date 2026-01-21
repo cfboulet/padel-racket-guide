@@ -46,7 +46,7 @@ const rackets = [
     // CONTROL-ORIENTED RACKETS (Round shapes, light weight, soft surfaces)
     {
         name: "Adidas Metalbone Carbon CTRL 2026",
-        price: "€320-350",
+        price: "$350-385",
         shape: "Round",
         weight: "Medium",
         surface: "Smooth",
@@ -58,7 +58,7 @@ const rackets = [
     },
     {
         name: "Nox ML10 Ventus Control 2026",
-        price: "€280-320",
+        price: "$310-350",
         shape: "Round",
         weight: "Light",
         surface: "Soft",
@@ -70,7 +70,7 @@ const rackets = [
     },
     {
         name: "Bullpadel Indiga CTR 2026",
-        price: "€85-100",
+        price: "$95-110",
         shape: "Round",
         weight: "Light",
         surface: "Soft",
@@ -82,7 +82,7 @@ const rackets = [
     },
     {
         name: "Nox Equation Soft Advanced 2026",
-        price: "€120-140",
+        price: "$130-155",
         shape: "Round",
         weight: "Light",
         surface: "Soft",
@@ -94,7 +94,7 @@ const rackets = [
     },
     {
         name: "Adidas RX Series 2026",
-        price: "<£100",
+        price: "<$125",
         shape: "Round",
         weight: "Light",
         surface: "Soft",
@@ -106,7 +106,7 @@ const rackets = [
     },
     {
         name: "Wilson Accent Series 2026",
-        price: "€90-110",
+        price: "$100-120",
         shape: "Round",
         weight: "Light",
         surface: "Soft",
@@ -120,7 +120,7 @@ const rackets = [
     // BALANCED RACKETS (Teardrop shapes, medium weight, smooth/rough surfaces)
     {
         name: "Head Extreme Pro 2026",
-        price: "€260-300",
+        price: "$285-330",
         shape: "Teardrop",
         weight: "Medium",
         surface: "Smooth",
@@ -132,7 +132,7 @@ const rackets = [
     },
     {
         name: "Head Extreme Team 2026",
-        price: "€190-220",
+        price: "$210-240",
         shape: "Teardrop",
         weight: "Medium",
         surface: "Smooth",
@@ -144,7 +144,7 @@ const rackets = [
     },
     {
         name: "Nox AT10 Pro Cup Soft 2026",
-        price: "€190-220",
+        price: "$210-240",
         shape: "Teardrop",
         weight: "Medium",
         surface: "Soft",
@@ -156,7 +156,7 @@ const rackets = [
     },
     {
         name: "Bullpadel Vertex 05 2026 (Juan Tello)",
-        price: "€340-370",
+        price: "$375-405",
         shape: "Diamond",
         weight: "Heavy",
         surface: "Rough",
@@ -168,7 +168,7 @@ const rackets = [
     },
     {
         name: "Nox AT10 Genius 18K Alum 2026",
-        price: "€220-250",
+        price: "$240-275",
         shape: "Teardrop",
         weight: "Medium",
         surface: "Rough",
@@ -180,7 +180,7 @@ const rackets = [
     },
     {
         name: "Siux Astra Hybrid 2026",
-        price: "€100-130",
+        price: "$110-145",
         shape: "Teardrop",
         weight: "Medium",
         surface: "Smooth",
@@ -194,7 +194,7 @@ const rackets = [
     // POWER RACKETS (Diamond shapes, heavy weight, rough surfaces)
     {
         name: "Bullpadel Hack 04 2026 (Paquito Navarro)",
-        price: "€350-380",
+        price: "$385-420",
         shape: "Diamond",
         weight: "Heavy",
         surface: "Rough",
@@ -206,7 +206,7 @@ const rackets = [
     },
     {
         name: "Adidas Metalbone HRD+ 2026 (Ale Galan)",
-        price: "€380-400",
+        price: "$420-440",
         shape: "Diamond",
         weight: "Heavy",
         surface: "Rough",
@@ -218,7 +218,7 @@ const rackets = [
     },
     {
         name: "Bullpadel Hack Hybrid 04 2026",
-        price: "€200-230",
+        price: "$220-255",
         shape: "Diamond",
         weight: "Medium",
         surface: "Rough",
@@ -230,7 +230,7 @@ const rackets = [
     },
     {
         name: "Wilson Ultra Series 2026",
-        price: "€180-210",
+        price: "$200-230",
         shape: "Teardrop",
         weight: "Medium",
         surface: "Smooth",
@@ -242,7 +242,7 @@ const rackets = [
     },
     {
         name: "Siux Pegasus Pro 2026",
-        price: "€190-220",
+        price: "$210-240",
         shape: "Teardrop",
         weight: "Medium",
         surface: "Smooth",
@@ -254,7 +254,7 @@ const rackets = [
     },
     {
         name: "Siux Fenix Pro Black 2026",
-        price: "€200-240",
+        price: "$220-265",
         shape: "Diamond",
         weight: "Heavy",
         surface: "Smooth",
